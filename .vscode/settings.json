@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/nullthefirst/virtualz/exercism-environment/bin/python",
+    "python.formatting.provider": "black"
+}
